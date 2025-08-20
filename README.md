@@ -2,9 +2,8 @@
 
 💻 I enjoy programming and solving challenging problems.  
 ⚡ Passionate about building **complex systems** that are scalable, efficient, and user-friendly.  
-📱 Skilled in **Flutter, Django REST, and real-time data streaming**, with a focus on crafting secure, high-performance solutions.  
-🧩 Strong foundation in **data structures, algorithms, and API design**.  
-
+📱 Skilled in **Flutter, Django REST, Python, Java, SQL, and API design**, with a focus on crafting secure, high-performance solutions.  
+🧩 Strong foundation in **data structures, algorithms, state management, and performance optimization**.  
 
 ---
 
@@ -12,7 +11,7 @@
 - **Languages:** Dart, Python, Java, SQL  
 - **Frameworks:** Flutter, Django REST Framework, Django Web Framework  
 - **Developer Tools:** Git, PyCharm, Jupyter, VS Code, Postman, Firebase, Google BigQuery  
-- **Concepts:** Data Structures & Algorithms, REST API Design, Real-Time Data Streaming, State Management, Performance Profiling, Basic Security & Encryption (RSA)  
+- **Concepts:** Data Structures & Algorithms, REST API Design, State Management, Performance Profiling, Basic Security & Encryption (RSA)  
 
 ---
 
