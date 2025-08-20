@@ -1,9 +1,10 @@
 # Hi there, I'm Nitin 👋  
 
-🚀 **Software Engineer | Flutter Developer | Backend Enthusiast**  
+💻 I enjoy programming and solving challenging problems.  
+⚡ Passionate about building **complex systems** that are scalable, efficient, and user-friendly.  
+📱 Skilled in **Flutter, Django REST, and real-time data streaming**, with a focus on crafting secure, high-performance solutions.  
+🧩 Strong foundation in **data structures, algorithms, and API design**.  
 
-I’m a software engineer passionate about building scalable, real-time applications with intuitive user experiences.  
-With experience in **Flutter, Django REST, and real-time data streaming**, I focus on crafting secure, high-performance, and user-centric solutions.  
 
 ---
 
