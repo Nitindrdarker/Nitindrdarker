@@ -9,7 +9,7 @@
 
 ## 🛠️ Technical Skills  
 - **Languages:** Dart, Python, Java, SQL  
-- **Frameworks:** Flutter, Django REST Framework, Django Web Framework  
+- **Frameworks:** Flutter, Django REST Framework, Django Web Framework, Spring-Boot 
 - **Developer Tools:** Git, PyCharm, Jupyter, VS Code, Postman, Firebase, Google BigQuery  
 - **Concepts:** Data Structures & Algorithms, REST API Design, State Management, Performance Profiling, Basic Security & Encryption (RSA)  
 
