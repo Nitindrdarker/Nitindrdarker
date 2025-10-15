@@ -2,7 +2,7 @@
 
 💻 I enjoy programming and solving challenging problems.  
 ⚡ Passionate about building **complex systems** that are scalable, efficient, and user-friendly.  
-📱 Skilled in **Flutter, Django REST, Python, Java, SQL, and API design**, with a focus on crafting secure, high-performance solutions.  
+📱 Skilled in **Flutter, Django REST, Python, Java, REST APIs using Spring Boot, SQL, and API design**, with a focus on crafting secure, high-performance solutions.  
 🧩 Strong foundation in **Data Structures, Algorithms, Programming Principles**.  
 
 ---
